@@ -1,0 +1,14 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\bin\Release\Bonuses.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\bin\Release\Bonuses.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\obj\Release\Bonuses.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\obj\Release\Bonuses.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\bin\Release\nunit.framework.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\bin\Release\nunit.framework.xml
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\obj\Release\ResolveAssemblyReference.cache
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\obj\Release\Bonuses.exe
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\obj\Release\Bonuses.pdb
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\bin\Release\Bonuses.exe
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\bin\Release\Bonuses.pdb
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\bin\Release\nunit.framework.dll
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\bin\Release\nunit.framework.xml

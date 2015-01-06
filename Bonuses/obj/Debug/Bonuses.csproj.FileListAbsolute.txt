@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\bin\Debug\Bonuses.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\bin\Debug\Bonuses.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\obj\Debug\Bonuses.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\obj\Debug\Bonuses.pdb
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\obj\Debug\Bonuses.exe
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\obj\Debug\Bonuses.pdb
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\bin\Debug\Bonuses.exe
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\bin\Debug\Bonuses.pdb
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\bin\Debug\nunit.framework.dll
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\bin\Debug\nunit.framework.xml
+C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\obj\Debug\ResolveAssemblyReference.cache

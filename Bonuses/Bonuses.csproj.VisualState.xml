@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\Bonuses.csproj</TopNode>
+  <SelectedNode>[0-1012]Bonuses</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\Bonuses.csproj" Expanded="true" />
+    <Node UniqueName="[0-1011]C:\Users\patrio\Documents\Visual Studio 2008\Projects\Bonuses\Bonuses\Bonuses\bin\Debug\Bonuses.exe" Expanded="true" />
+    <Node UniqueName="[0-1012]Bonuses" Expanded="true" />
+    <Node UniqueName="[0-1001]Bonuses.Program+CategoryTest" Expanded="true" />
+    <Node UniqueName="[0-1008]Bonuses.Program+OrderTest" Expanded="true" />
+  </Nodes>
+</VisualState>
